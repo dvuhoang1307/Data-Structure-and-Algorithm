@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithm
-Repository này tổng hợp các source file C++ về bài tập các học phần:
+Bài tập các học phần:
 - IT3011: Cấu trúc dữ liệu và thuật toán
 - IT3020: Toán rời rạc 
 --------------------------------------------------------------------
